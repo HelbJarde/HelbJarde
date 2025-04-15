@@ -74,5 +74,5 @@ An application designed for gym owners to manage memberships and payments effici
 
 ## 🔧 Additional Information
 
-- **Courses:** Accounting, Wall-Mounted Heating Package Repair, Electronic Board Repair of Boilers  
+- **Courses:** Accounting, Wall-Mounted Heating Package Repair, Electronic Board of Boilers Repair   
 - **Work Experience:** Inventory Management, Sana Ouj Company *(3.5 years)*
