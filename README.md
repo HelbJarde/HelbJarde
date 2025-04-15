@@ -28,14 +28,14 @@ Seeking an opportunity to contribute technical expertise and problem-solving ski
 
 ## 💻 Projects
 
-### 🛒 Online Shop App
+### 🛒 Online Shop App (https://github.com/HelbJarde/online-shop-app)
 **Description:**  
 A comprehensive e-commerce application built with Flutter. Includes product listing, shopping cart, user authentication, and order management features with a modern and user-friendly design.  
 **Skills Used:** Flutter, Dart, Bloc, Hive, REST APIs, UI/UX Design
 
 ---
 
-### 🏋️ Gym Management App
+### 🏋️ Gym Management App (https://github.com/HelbJarde/Gym-management-app)
 **Description:**  
 An application designed for gym owners to manage memberships and payments efficiently. Focused on usability and productivity through clean UI and structured backend.  
 **Skills Used:** Flutter, Dart, REST APIs, UI/UX Design
